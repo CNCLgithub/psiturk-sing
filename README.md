@@ -19,7 +19,7 @@ $ singularity pull --arch amd64 library://mebelledonne/default/psiturk-apline:1.
 $ singularity pull library://mebelledonne/default/psiturk-apline:sha256.4fd46933f838844df2dc14e09651f07d3d322a13c7a0458942028e8347f2addb
 ```
 
-### Building
+### Running
 
 ```bash
 
